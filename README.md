@@ -1,6 +1,8 @@
 # go-autostart
 
-[![GoDoc](https://godoc.org/github.com/emersion/go-autostart?status.svg)](https://godoc.org/github.com/emersion/go-autostart)
+> fork from [emersion/go-autostart](https://github.com/emersion/go-autostart), for removing cgo
+
+[![GoDoc](https://godoc.org/github.com/teages/go-autostart?status.svg)](https://godoc.org/github.com/teages/go-autostart)
 
 A Go library to run a command after login.
 
